@@ -1,4 +1,3 @@
-# House-Price-Predictions-Using-Python
 
 # House Sales in King County, USA
 
